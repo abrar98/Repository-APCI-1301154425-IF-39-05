@@ -1,6 +1,12 @@
- Program Hello;
+﻿ Program APCI-1301154425;
         Uses Crt;
         Begin
             ClrScr;
-            Writeln(‘Hello World’); //untuk mengeluarkan string ‘Hello World’ di layar
+                Writeln(‘Hello’);
+                Writeln(‘1301154425’);
+                Writeln(‘Abrar Anugrah’);
+                Writeln(‘IF 39-05’);
+                Writeln(‘Wida’);
+                Writeln(‘1301544253’);
+                Writeln(‘Modul 06’);
         End
